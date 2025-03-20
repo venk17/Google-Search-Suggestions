@@ -1,0 +1,16 @@
+.suggestion-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 8px;
+  border-bottom: 1px solid #bfbfbf;
+  cursor: pointer;
+}
+
+.suggestion-item:hover {
+  background-color: #f1f1f1;
+}
+
+.arrow-icon {
+  width: 20px;
+  cursor: pointer;
+}
